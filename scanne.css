@@ -1,0 +1,36 @@
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3498db;
+
+  }
+  #reader {
+  width: 600px;
+  border-radius: 10px;
+  background-color: white;
+  }
+  #result {
+  text-align: center;
+  font-size: 1.5rem;
+  }
+  button{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: antiquewhite;
+    font-size: 18px;
+    font-weight: 600;
+    border: transparent;
+    cursor: pointer;
+  }
+  body{
+    background-color: #3498db;
+    padding-top: 200px;
+  }
+  .reader__scan_region{
+    background-color:white !important;
+
+  }
+
